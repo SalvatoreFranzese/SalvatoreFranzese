@@ -18,7 +18,8 @@ I'm **Salvatore Franzese**, a **Software and Game developer** with a degree in C
 <img src="https://skillicons.dev/icons?i=spring,angular" />
 
 ### 🛠️ Tools & Technologies
-<img src="https://skillicons.dev/icons?i=postgres,docker,git,github,gitlab,linux,bash,androidstudio,visualstudio,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=postgres,docker,git,github,gitlab,linux" />
+<img src="https://skillicons.dev/icons?i=bash,androidstudio,visualstudio,vscode,postman" />
 
 ## 📈 Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salvatorefranzese&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
