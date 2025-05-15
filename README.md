@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hello there!
+I'm **Salvatore Franzese**, a **Software and Game developer** with a degree in Computer Science from the University of Naples Federico II.
 
-<!--
-**SalvatoreFranzese/SalvatoreFranzese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🌱 Currently working on:
+- Advancing my skills in game development with **Unreal Engine 5** and **C++**
+- Exploring the use of **Artificial Intelligence** to enhance game design and player experience
 
-Here are some ideas to get you started:
+### 🧑‍💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=c,cpp,java" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Web Development
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,wordpress" />
+
+### 🎮 Game Development
+<img src="https://skillicons.dev/icons?i=unrealengine,blender" />
+
+### 🧱 Frameworks
+<img src="https://skillicons.dev/icons?i=spring,angular" />
+
+### 🛠️ Tools & Technologies
+<img src="https://skillicons.dev/icons?i=postgres,docker,git,github,gitlab,linux,bash,androidstudio,visualstudio,vscode,postman" />
+
+## 📈 Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salvatorefranzese&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![Views](https://komarev.com/ghpvc/?username=salvatorefranzese&style=flat-square&color=blue)
